@@ -8,4 +8,7 @@ This project is "Let's Collaborate" component form from XIVTECH
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-link:'./view'
+Mobile view:
+https://github.com/Monty05012002/XivTech-Clone/blob/master/view/mobileview.jpg
+ Desktop View:
+ https://github.com/Monty05012002/XivTech-Clone/blob/master/view/desktopview.png
